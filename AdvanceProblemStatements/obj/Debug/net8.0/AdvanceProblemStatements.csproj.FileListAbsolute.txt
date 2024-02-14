@@ -1,0 +1,14 @@
+C:\Users\Ramisettylokesh\source\repos\AdvanceProblemStatements\AdvanceProblemStatements\obj\Debug\net8.0\AdvanceProblemStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramisettylokesh\source\repos\AdvanceProblemStatements\AdvanceProblemStatements\obj\Debug\net8.0\AdvanceProblemStatements.AssemblyInfoInputs.cache
+C:\Users\Ramisettylokesh\source\repos\AdvanceProblemStatements\AdvanceProblemStatements\obj\Debug\net8.0\AdvanceProblemStatements.AssemblyInfo.cs
+C:\Users\Ramisettylokesh\source\repos\AdvanceProblemStatements\AdvanceProblemStatements\obj\Debug\net8.0\AdvanceProblemStatements.csproj.CoreCompileInputs.cache
+C:\Users\Ramisettylokesh\source\repos\AdvanceProblemStatements\AdvanceProblemStatements\bin\Debug\net8.0\AdvanceProblemStatements.exe
+C:\Users\Ramisettylokesh\source\repos\AdvanceProblemStatements\AdvanceProblemStatements\bin\Debug\net8.0\AdvanceProblemStatements.deps.json
+C:\Users\Ramisettylokesh\source\repos\AdvanceProblemStatements\AdvanceProblemStatements\bin\Debug\net8.0\AdvanceProblemStatements.runtimeconfig.json
+C:\Users\Ramisettylokesh\source\repos\AdvanceProblemStatements\AdvanceProblemStatements\bin\Debug\net8.0\AdvanceProblemStatements.dll
+C:\Users\Ramisettylokesh\source\repos\AdvanceProblemStatements\AdvanceProblemStatements\bin\Debug\net8.0\AdvanceProblemStatements.pdb
+C:\Users\Ramisettylokesh\source\repos\AdvanceProblemStatements\AdvanceProblemStatements\obj\Debug\net8.0\AdvanceProblemStatements.dll
+C:\Users\Ramisettylokesh\source\repos\AdvanceProblemStatements\AdvanceProblemStatements\obj\Debug\net8.0\refint\AdvanceProblemStatements.dll
+C:\Users\Ramisettylokesh\source\repos\AdvanceProblemStatements\AdvanceProblemStatements\obj\Debug\net8.0\AdvanceProblemStatements.pdb
+C:\Users\Ramisettylokesh\source\repos\AdvanceProblemStatements\AdvanceProblemStatements\obj\Debug\net8.0\AdvanceProblemStatements.genruntimeconfig.cache
+C:\Users\Ramisettylokesh\source\repos\AdvanceProblemStatements\AdvanceProblemStatements\obj\Debug\net8.0\ref\AdvanceProblemStatements.dll
